@@ -72,7 +72,7 @@ function draw() {
   arc(0,0,270,270,0,minAngle);
  
   stroke(0,5,251)
-  arc(0,0,240,240,0,secAngle)
+  arc(0,0,240,240,0,hrAngle)
 
   
 }
