@@ -31,7 +31,7 @@ function draw() {
 
    secAngle=map(sec,0,60,0,360)
   minAngle=map(min,0,60,0,360)
-  hrAngle=map(hr,0,60,0,360) %12
+  hrAngle=map(hr,0,60,0,360) 
   
 
   
