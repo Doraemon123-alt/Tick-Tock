@@ -20,7 +20,7 @@ function draw() {
   background("black"); 
 
   translate(250,250);
-
+  rotate(-90)
   hr=hour()
   min=minute()
   sec=second()
